@@ -14,26 +14,29 @@ git push -u origin master
 ```
 ```bash
 
-print(" hello world ")
+print("hello world")
 ```
 ### Let's create a variable
 ```
 age = 99 # type of integer
 NHS = 22.3 # float
 name = "James"
-
-# displaying name 
-print(name)
-
-# displaying age
-print(age)
 ```
-```
-# getting user input with input() method
+### displaying name 
+``` print(name)```
+
+### displaying age
+``` print(age)```
+
+
+### getting user input with input() method
+```python
 name = input("please enter your name ")
 age = input("Please enter your age ")
+```
 
-# displaying user input()
+### displaying user input()
+```python
 print(name)
 print(age)
 ```
@@ -44,7 +47,9 @@ print(name)
 name = "bond"
 print(name)
 ```
-```
+### displaying values stored in variables
+
+```python
 print(x)
 print(x + y)
 print(name)
@@ -52,7 +57,6 @@ print(name)
 ### casting an int to string
 print(str(x) + name)
 
-### add the variable called x and variable called name and display it
 
 ### builtin method called type()
 print(type(x))
