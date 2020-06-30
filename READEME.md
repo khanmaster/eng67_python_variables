@@ -20,9 +20,20 @@ print(" hello world ")
 ```
 age = 99 # type of integer
 NHS = 22.3 # float
+name = "James"
 
+# displaying name 
+print(name)
+
+# displaying age
+print(age)
+```
+```
+# getting user input with input() method
 name = input("please enter your name ")
 age = input("Please enter your age ")
+
+# displaying user input()
 print(name)
 print(age)
 ```
@@ -44,6 +55,8 @@ print(str(x) + name)
 ### add the variable called x and variable called name and display it
 
 ### builtin method called type()
+print(type(x))
+
 
 # exercise - capturing user details -
 ```
