@@ -2,7 +2,16 @@
 # what is a variable
 # types of variable 
 
-
+### git commands step by step
+```bash
+git init on pycharm
+create a .gitignore
+add .idea/ and venv folder into .gitignore
+git status
+git add .
+git commit -m "message"
+git push -u origin master
+```
 # print(" hello world ")
 
 # Let's create a variable
