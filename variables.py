@@ -3,29 +3,30 @@
 
 # Let's create a variable
 
-# age = 99 # type of integer
-# NHS = 12344555 # float
+age = 18 # type of integer
+hourly_rate = 9.5 # float
+name = "James"
 #
 # name = input("please enter your name ")
 # age = input("Please enter your age ")
 # print(name)
 # print(age)
+# print (hourly_rate)
 
 # overwriting a variable
 name = "jame"
 print(name)
+
 name = "bond"
 print(name)
 
-#
-#
 # print(x)
 # print(x + y)
 # print(name)
 #
 # casting an int to string
 # print(str(x) + name)
-#
+
 # add the variable called x and variable called name and display it
 #
 # builtin method called type()

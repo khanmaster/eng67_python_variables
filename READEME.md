@@ -18,8 +18,8 @@ print("hello world")
 ```
 ### Let's create a variable
 ```
-age = 99 # type of integer
-NHS = 22.3 # float
+age = 18 # type of integer
+hourly_rate = 9.5 # float
 name = "James"
 ```
 ### displaying name 
